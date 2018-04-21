@@ -717,7 +717,7 @@ PlayerSettings:
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
   cloudProjectId: c53cc808-ea7d-45ea-bc5c-c787ab5c4622
-  projectName: 
+  projectName: Walk Of Fame
   organizationId: rspace
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
